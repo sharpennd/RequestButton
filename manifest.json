@@ -1,1 +1,20 @@
-
+[
+  {
+    "guid": "8f3a2b6e-4c2d-4a7a-9d1e-3b6f7a9c2e11",
+    "name": "Request",
+    "description": "Adds a media request page inside Jellyfin, forwarded to a configurable webhook.",
+    "overview": "Request media from inside Jellyfin's own UI.",
+    "owner": "sharpennd",
+    "category": "General",
+    "versions": [
+      {
+        "version": "1.0.0.0",
+        "changelog": "Initial release.",
+        "targetAbi": "12.0.0.0",
+        "sourceUrl": "https://github.com/sharpennd/RequestButton/releases/download/Release/RequestButton_1.0.0.0.zip",
+        "checksum": "CFD6EDC70C843F7482154D58AC7F1EDA",
+        "timestamp": "2026-09-10T00:00:00Z"
+      }
+    ]
+  }
+]
